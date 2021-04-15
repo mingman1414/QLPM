@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyPhongMach", "QuanLyPhongMach\QuanLyPhongMach.csproj", "{2C9473A4-36F9-4C26-93A9-A0DECC0A1CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C9473A4-36F9-4C26-93A9-A0DECC0A1CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9473A4-36F9-4C26-93A9-A0DECC0A1CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9473A4-36F9-4C26-93A9-A0DECC0A1CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9473A4-36F9-4C26-93A9-A0DECC0A1CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E304B7-09B2-4C3D-9A2B-FF6015E6F248}
+	EndGlobalSection
+EndGlobal

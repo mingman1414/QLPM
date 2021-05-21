@@ -1,3 +1,0 @@
-Xóa tất cả dữu liêu cũ
-Xây dựng lại CSDL cho hợp lý hơn
-Xây dựng lại giao diện phù hợp với CSDL mới
